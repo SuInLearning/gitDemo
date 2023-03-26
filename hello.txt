@@ -1,6 +1,6 @@
-hello Git!	222222
+hello Git!	2222
 hello Git!	3333
-hello Git!	444
+hello Git!	
 hello Git!
 hello Git!
 hello Git!
